@@ -57,7 +57,7 @@ The project demonstrates:
 - Dashboard design and data visualization
 
 
-  <img width="640" height="333" alt="snapdeal(1)" src="https://github.com/user-attachments/assets/4844f2b3-5767-4593-8a45-9124ff4ec184" />
+<img width="640" height="333" alt="snapdeal(1)" src="https://github.com/user-attachments/assets/4844f2b3-5767-4593-8a45-9124ff4ec184" />
 
 
 <img width="601" height="330" alt="snapdeal(8)" src="https://github.com/user-attachments/assets/6fa11f50-c137-438a-9cd6-2bbdb0ab833f" />
